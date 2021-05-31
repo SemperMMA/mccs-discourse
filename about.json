@@ -1,33 +1,33 @@
 {
-  "name": "neomorphism",
+  "name": "MCCS Discourse",
   "component": false,
   "license_url": null,
-  "about_url": "https://github.com/twimbit/neomorphism-discourse",
-  "authors": "twimbit",
+  "about_url": "https://mhc.mccsiwakuni.com",
+  "authors": "J. Michael Browning",
   "theme_version": 1.0,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
   },
   "color_schemes": {
-    "Twimbit color palette": {
-      "primary": "00485A",
+    "MCCS Color Palette": {
+      "primary": "#27428b",
       "primary-medium": "00485A",
       "primary-low-mid": "ED6A6F",
       "primary-low": "#d1d5de",
       "secondary": "ffffff",
-      "tertiary": "ED6A6F",
-      "quaternary": "ED6A6F",
+      "tertiary": "e64e67",
+      "quaternary": "e64e67",
       "header_background": "ffffff",
-      "header_primary": "00485A",
+      "header_primary": "#27428b",
       "highlight": "EFA6A9",
       "highlight-high": "ffffff",
       "highlight-medium": "ffffff",
       "highlight-low": "ffffff",
       "danger": "BB1122",
       "success": "3d854d",
-      "love": "ED6A6F",
-      "primary-med-or-secondary-high": "00485A",
+      "love": "e64e67",
+      "primary-med-or-secondary-high": "#27428b",
       "header_primary-low-mid": "#9da0a7;"
     }
   },
