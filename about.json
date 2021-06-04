@@ -29,7 +29,9 @@
       "love": "e64e67",
       "primary-med-or-secondary-high": "c3c3c3",
       "primary-medium": "c3c3c3",
-      "header_primary-low-mid": "0069ff;"
+      "header_primary-low-mid": "0069ff",
+      "a_mention_font_color": "ffffff",
+      "a_mention_background_color": "#26b99a"
     }
   },
   "modifiers": {
