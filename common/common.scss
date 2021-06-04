@@ -338,6 +338,58 @@ hr {
     border-top:1px solid #575F6B!important;
 }
 
+.categories{
+    background: linear-gradient(rgb(242, 243, 246) 0%, rgb(238, 239, 245) 100%);
+    border-radius: 16px;
+    width: 100%;
+    border-color: transparent;
+    padding: 2%;
+    margin-right: 4vw !important;
+    margin-left: -1vw;
+    filter: drop-shadow(-4px -4px 20px #fff);
+    box-shadow: #ffffff -4px -4px 20px, #f0f1f7 3px 3px 20px;
+    height: 40%;
+    cursor: pointer;
+}
+
+.top-topic-list{
+    background: linear-gradient(rgb(242, 243, 246) 0%, rgb(238, 239, 245) 100%);
+    border-radius: 16px;
+    width: 100%;
+    border-color: transparent;
+    padding: 2%;
+    margin-right: 4vw !important;
+    margin-left: -1vw;
+    filter: drop-shadow(-4px -4px 20px #fff);
+    box-shadow: #ffffff -4px -4px 20px, #f0f1f7 3px 3px 20px;
+    height: auto;
+    cursor: pointer;
+    overflow: hidden;
+}
+.latest-topic-list
+{
+    background: linear-gradient(rgb(242, 243, 246) 0%, rgb(238, 239, 245) 100%);
+    border-radius: 16px;
+    width: 100%;
+    border-color: transparent;
+    padding: 2%;
+    margin-right: 2vw!important;
+    margin-left: -1.5vw;
+    filter: drop-shadow(-4px -4px 20px #fff);
+    box-shadow: #ffffff -4px -4px 20px, #F0F1F7 3px 3px 20px;
+    height: 100%;
+}
+
+.category-list th, .table-heading{
+    font-family: Nunito;
+    font-weight: 500;
+    font-size: 26px;
+    text-align: left;
+    color: #575F6B!important;
+    border: 1px solid rgba(0, 0, 0, 0);
+    backdrop-filter: blur(30px);
+    --webkit-backdrop-filter: blur(30px);
+}
 
 .full-width {
     margin-top: 10px;
