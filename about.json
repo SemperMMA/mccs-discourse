@@ -11,7 +11,7 @@
   },
   "color_schemes": {
     "MCCS Color Palette": {
-      "primary": "#27428b",
+      "primary": "0069ff",
       "primary-medium": "00485A",
       "primary-low-mid": "ED6A6F",
       "primary-low": "#d1d5de",
@@ -19,7 +19,7 @@
       "tertiary": "e9e9e9",
       "quaternary": "e64e67",
       "header_background": "ffffff",
-      "header_primary": "#27428b",
+      "header_primary": "0069ff",
       "highlight": "EFA6A9",
       "highlight-high": "ffffff",
       "highlight-medium": "ffffff",
@@ -27,8 +27,8 @@
       "danger": "BB1122",
       "success": "3d854d",
       "love": "e64e67",
-      "primary-med-or-secondary-high": "#27428b",
-      "header_primary-low-mid": "#9da0a7;"
+      "primary-med-or-secondary-high": "0069ff",
+      "header_primary-low-mid": "0069ff;"
     }
   },
   "modifiers": {
