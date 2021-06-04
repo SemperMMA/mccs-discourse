@@ -1,6 +1,11 @@
 a.mention {
-  color: #fff !important;
-  background: #26b99 !important;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 0.93em;
+    color: #fff !important;
+    padding: 0 4px 1px;
+    background: #26b99a !important;
+    border-radius: 8px;
 }
 
 
