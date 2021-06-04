@@ -47,7 +47,7 @@ svg_icons:
 
 
 show_on:
-  default: top_menu
+  default: all
   type: enum
   choices:
     - top_menu
