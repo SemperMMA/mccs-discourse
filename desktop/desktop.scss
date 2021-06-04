@@ -1,3 +1,9 @@
+a.mention {
+  color: var(--a_mention_font_color) !important;
+  background: var(--a_mention_background_color) !important;
+}
+
+
 #topic-title h1 a {
     color: var(--primary);
     font-size: 2vw;
